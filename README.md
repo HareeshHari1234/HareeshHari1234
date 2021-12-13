@@ -5,9 +5,9 @@
 <hr>
 
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://notsaksh.me/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notbeluga)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/notsakshyam6969/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Ponhareesh.me/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ponhareesh)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/Ponhareesh/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Hareesh)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
@@ -16,7 +16,7 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 ## Like My Work?
 
-<a href="https://www.buymeacoffee.com/notsakshyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/Ponhareesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 [![](https://gitwar.herokuapp.com/badge?username=Hareesh&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://herokuapp.com/)
 
